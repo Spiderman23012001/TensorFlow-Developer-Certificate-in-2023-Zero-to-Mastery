@@ -1,5 +1,5 @@
 # what we are going to cover
-1. tensorflow basic and fundamental
+1. Tensorflow basic and fundamental
 2. Preprocessing data
 3. Building and using pretrained deep learning models
 4. fitting a model to data (learning patterns)
