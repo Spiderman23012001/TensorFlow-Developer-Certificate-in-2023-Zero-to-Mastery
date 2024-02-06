@@ -1,4 +1,4 @@
-what we are going to cover
+# what we are going to cover
 1. tensorflow basic and fundamental
 2. Preprocessing data
 3. Building and using pretrained deep learning models
