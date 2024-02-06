@@ -10,5 +10,5 @@
 
 - Những việc cần tránh:
  - Overthinking the process
- - Không được pháp " tôi không thể làm nó"
+ - Không được nghĩ " Tôi không thể học nó"
 ![Tensorflow](https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png)
