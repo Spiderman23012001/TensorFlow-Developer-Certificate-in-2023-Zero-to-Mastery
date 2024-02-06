@@ -1,5 +1,5 @@
 shuffle the order of element:
---> Được sử dụng trong quá trình chuẩn bị dữ liệu huấn luyện trong machine learning để tạo ra các batch (nhóm) dữ liệu ngẫu nhiên từ tập dữ liệu huấn luyện. Việc này giúp mô hình học được từ các mẫu dữ liệu có tính ngẫu nhiên hơn và tránh hiện tượng mô hình học "đọc thuộc lòng" dữ liệu.
+*** --> Được sử dụng trong quá trình chuẩn bị dữ liệu huấn luyện trong machine learning để tạo ra các batch (nhóm) dữ liệu ngẫu nhiên từ tập dữ liệu huấn luyện. Việc này giúp mô hình học được từ các mẫu dữ liệu có tính ngẫu nhiên hơn và tránh hiện tượng mô hình học "đọc thuộc lòng" dữ liệu.
 
 __________
 <pre>
